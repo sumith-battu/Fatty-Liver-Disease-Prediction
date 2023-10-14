@@ -24,3 +24,6 @@ Here i tried to implemet fatty liver disease prediction using some machine learn
 [Click here](https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset)
 
 
+<p>In case of any issue contact me for explation and feel free to make any changes</p> 
+
+
